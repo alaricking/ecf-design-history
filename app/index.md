@@ -1,7 +1,6 @@
 ---
 layout: collection
-title: "A design history for your GOV.UK service"
-description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
+title: "Early career framework design history"
 pagination:
   data: collections.all
   reverse: true
