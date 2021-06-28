@@ -69,7 +69,7 @@ Much of the personal data that frequently failed validation was also difficult t
 
 We explored several models of solving this data collection exercise, including asking the induction tutor to do all of the validation.
 
-[![alt text](/images/manage-training/school-adding-participants-to-a-cohort/ero-onboarding-flow.jpg)](/images/manage-training/school-adding-participants-to-a-cohort/ero-onboarding-flow.jpg) A diagram exploring how the induction tutor would manage the validation tasks for each participant. [View the diagram on Miro](https://miro.com/app/board/o9J_lIKQEEs=/?moveToWidget=3074457357846001650&cot=14).
+[![alt text](/images/manage-training/school-adding-participants-to-a-cohort/it-onboarding-flow.jpg)](/images/manage-training/school-adding-participants-to-a-cohort/it-onboarding-flow.jpg) A diagram exploring how the induction tutor would manage the validation tasks for each participant. [View the diagram on Miro](https://miro.com/app/board/o9J_lIKQEEs=/?moveToWidget=3074457357846001650&cot=14).
 
 
 Our original hesitations of asking participants to add all of their own details were;
@@ -78,6 +78,8 @@ Our original hesitations of asking participants to add all of their own details 
 * adding yet another user group into the platform, could put more demand on the support team
 
 Whilst having one user take ownership of a task can sometimes be a good idea (higher likelihood of it being completed) through research the pattern was consistent; delays would always be caused by assigning the data validation task to anyone but the individual whos data it was.
+
+[![alt text](/images/manage-training/school-adding-participants-to-a-cohort/ptp-onboarding-flow.jpg)](/images/manage-training/school-adding-participants-to-a-cohort/ptp-onboarding-flow.jpg) A diagram exploring how the induction tutor would initially add the participant, but the participant entering their own data. [View the diagram on Miro](https://miro.com/app/board/o9J_lIKQEEs=/?moveToWidget=3074457357905455285&cot=14).
 
 
 ## Error states
