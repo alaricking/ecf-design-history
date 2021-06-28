@@ -1,10 +1,7 @@
 ---
 layout: collection
 title: "Early career framework design history"
-pagination:
-  data: collections.all
-  reverse: true
-  size: 50
+description: "A history of the design work for the ECF service, that belongs to the teacher CPD programme"
 posts:
   title: Getting started
 eleventyComputed:
