@@ -1,5 +1,5 @@
 ---
-title: Notification of a school's induction tutor and first sign in
+title: Notifying a new school induction tutor and first sign in
 description: How a newly nominated school induction tutor gets notified and the journey they follow when signing in for the first time
 date: 2021-06-03
 ---
@@ -50,10 +50,8 @@ We do this to protect against [Observable Response Discrepancy](https://cwe.mitr
 
 
 ## Error states
-The journey also contained screens to account for scenarios where the user could not continue. These were;
-
-1. This link has expired
-
+### This link has expired
+The unique sign in link that's emailed to users, has a token which is only valid for 1 hour. If this token has expired, the user is prompted to sign in again.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
@@ -81,6 +79,6 @@ The journey also contained screens to account for scenarios where the user could
     }, {
       text: "Error: This link has expired",
       img: { src: "07-b-this-link-has-expired.png" },
-      caption: "The unique sign in link that's emailed to users, has a token which is only valid for 1 hour. If this token has expired, the user sees this page."
+      caption: ""
     }]
 }) }}
