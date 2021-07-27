@@ -1,19 +1,19 @@
 ---
 tags: false
 layout: collection
-title: Manage the delivery of ECF training
-description: This public BETA service allows training providers who are contracted by DfE, to manage the delivery of their ECF training to schools
+title: Support for ECF
+description: This public BETA service allows DfE admin users to provide support for the ECF services
 pagination:
-  data: collections.manage-cpd-delivery
+  data: collections.support-for-cpd
   reverse: true
   size: 50
-permalink: "manage-cpd-delivery/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+permalink: "support-for-cpd/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: home
-    order: 2
+    order: 3
 related:
   items:
   - text: Wireframe journeys (Miro)
